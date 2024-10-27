@@ -1,4 +1,4 @@
-# tailwindcss set up instraction 
+# tailwindcss set up instruction 
 Step 1: project set up as npm 
 ```
 npm init -y
